@@ -1,8 +1,0 @@
-*.egg-info/
-.venv/
-build/
-.env
-__pycache__/
-.venv
-.DS_Store
-
